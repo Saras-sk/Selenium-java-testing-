@@ -17,7 +17,7 @@ public class id {
         WebElement Unm = driver.findElement(By.id("email"));
         Unm.sendKeys("nanosingh17896@gmail.com");
         
-        driver.findElement(By.name("pass")).sendKeys("satyamavejayate");
+        driver.findElement(By.name("pass")).sendKeys("udtapunjab");
         
         driver.findElement(By.name("login")).click();
         
